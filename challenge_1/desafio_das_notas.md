@@ -26,11 +26,11 @@ m = [7, 6, 9, 8]
 j = [10, 6, 7, 8]
 
 
-Para os elementos *0*, João recebe um ponto porque m[0] .
+Para os elementos *0*, João recebe um ponto porque m[0] < j[0].
 
 Para os elementos iguais m[1] e j[1] , nenhum ponto é ganho.
 
-Para os elementos 2 , m[2] > j[2] então Maria recebe um ponto.
+Para os elementos *2* , m[2] > j[2] então Maria recebe um ponto.
 
 Finalmente, para os elementos 3 , m[3] < j[3] então João recebe um ponto.
 
